@@ -6,3 +6,14 @@ Usage:
 ```bash
 explainshell-cli tar -xzvf
 ```
+
+
+## 📦 Installation
+
+Clone the repo and install it with pip:
+
+```bash
+git clone https://github.com/snoopysecurity/explainshell-cli.git
+cd explainshell-cli
+pip install .
+```
