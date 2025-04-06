@@ -1,0 +1,2 @@
+[console_scripts]
+explainshell-cli = explainshell_cli.__main__:main
